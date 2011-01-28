@@ -1,0 +1,7 @@
+OBJECTS = \
+	../map.o \
+	../tile.o \
+	../imaplayer.o \
+	../maplayertiled.o \
+	../main.o \
+	../app.o

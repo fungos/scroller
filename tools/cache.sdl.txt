@@ -1,0 +1,4 @@
+c:/techfront/sdk//scroller/workdir/data/strings.dict
+c:/techfront/sdk//scroller/workdir/data/examples/tmw_desert_spacing.png
+c:/techfront/sdk//scroller/workdir/data/tileset_tileset.sprite
+c:/techfront/sdk//scroller/workdir/data/teste.map
